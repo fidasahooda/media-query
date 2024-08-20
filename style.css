@@ -28,7 +28,7 @@ main {
     background-color: #f4f4f4;
    
 }
-@media screen and(max-width:1024px){
+@media screen and(min-width:1024px){
     main{
         grid-template-columns: repeat(3,1fr);
         background-color: lightgreen;
